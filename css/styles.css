@@ -1,8 +1,13 @@
+.aligncenter{
+	text-align: center;
+}
 
+.alignright{
+	text-align: right;
+}
+
+.topborder{
+	border-top: dotted blue 2px;
+}
 
 /* Diagnostic Styling */
-
-/* Show Grid */
-.showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
-}
