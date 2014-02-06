@@ -1,9 +1,25 @@
+body{
+	background: black;
+}
+
+ul{
+	list-style: none;
+}
+
 .aligncenter{
 	text-align: center;
 }
 
 .alignright{
 	text-align: right;
+}
+
+.container{
+	background: white;
+	
+
+	/* delete*/
+	height: 1000px;
 }
 
 .topborder{
